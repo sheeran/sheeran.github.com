@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Neal Sheeran]]></title>
-  <link href="http://sheeran.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: test | Neal Sheeran]]></title>
+  <link href="http://sheeran.github.com/blog/categories/test/atom.xml" rel="self"/>
   <link href="http://sheeran.github.com/"/>
   <updated>2013-02-11T23:00:30-07:00</updated>
   <id>http://sheeran.github.com/</id>
@@ -18,7 +18,7 @@
     <link href="http://sheeran.github.com/blog/2013/02/11/first-test-post/"/>
     <updated>2013-02-11T22:46:00-07:00</updated>
     <id>http://sheeran.github.com/blog/2013/02/11/first-test-post</id>
-    <content type="html"><![CDATA[<p>This site is a &#8220;testing server&#8221; for my actual Octopress-powered blog at <a href="http://www.nealsheeran.com">www.nealsheeran.com</a>. I&#8217;ll be working on my personal theme and wanted a completely separate installation, in case I break something. Wouldn&#8217;t be the first time.</p>
+    <content type="html"><![CDATA[<p>This site is a "testing server" for my actual Octopress-powered blog at <a href="http://www.nealsheeran.com">www.nealsheeran.com</a>. I'll be working on my personal theme and wanted a completely separate installation, in case I break something. Wouldn't be the first time.</p>
 ]]></content>
   </entry>
   
