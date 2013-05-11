@@ -4,7 +4,7 @@
   <title><![CDATA[Category: test | Neal Sheeran]]></title>
   <link href="http://sheeran.github.com/blog/categories/test/atom.xml" rel="self"/>
   <link href="http://sheeran.github.com/"/>
-  <updated>2013-05-10T23:13:39-07:00</updated>
+  <updated>2013-05-10T23:36:00-07:00</updated>
   <id>http://sheeran.github.com/</id>
   <author>
     <name><![CDATA[Neal Sheeran]]></name>
@@ -18,47 +18,47 @@
     <link href="http://sheeran.github.com/blog/2013/05/10/octoprimer/"/>
     <updated>2013-05-10T23:03:00-07:00</updated>
     <id>http://sheeran.github.com/blog/2013/05/10/octoprimer</id>
-    <content type="html"><![CDATA[<p>This a Octopress blog entry sampler. All types of content that might find its way into a blog post, to include spiffy plug-in output such as code blocks, blockquotes, and images will be represented. While we’re at it: <em>here is some emphasized text</em> and might want to check <strong>strong text</strong> as well. Blog posts usually contain links, so here is <a href="http://www.cnn.com">an example</a>.</p>
+    <content type="html"><![CDATA[<p>This a Octopress blog entry sampler. All types of content that might find its way into a blog post, to include spiffy plug-in output such as code blocks, blockquotes, and images will be represented. While we&rsquo;re at it: <em>here is some emphasized text</em> and might want to check <strong>strong text</strong> as well. Blog posts usually contain links, so here is <a href="http://www.cnn.com">an example</a>.</p>
 
 <p>A standard Markdown blockquote (George Orwell):</p>
 
-<blockquote>
-  <p>People sleep peaceably in their beds at night only because rough men stand ready to do violence on their behalf.</p>
-</blockquote>
+<blockquote><p>People sleep peaceably in their beds at night only because rough men stand ready to do violence on their behalf.</p></blockquote>
 
 <p>And a Octo-powered quote from a written work:</p>
 
-<p><blockquote><p>…in the hands of politicians grand designs achieve nothing but new forms of the old misery…</p><footer><strong>John le Carré</strong> <cite>Tinker Tailor Soldier Spy</cite></footer></blockquote> </p>
+<p><blockquote><p>&hellip;in the hands of politicians grand designs achieve nothing but new forms of the old misery&hellip;</p><footer><strong>John le Carré</strong> <cite>Tinker Tailor Soldier Spy</cite></footer></blockquote></p>
 
 <p>The Octopress blockquote plugin also handles tweets <sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup>:</p>
 
-<p><blockquote><p>Modest proposal: every time one side in Congress introduces legislation, the other side gets to name it.</p><footer><strong>@iowahawkblog</strong> <cite><a href='https://twitter.com/iowahawkblog/status/301462708287598592'>twitter.com/iowahawkblog/status/&hellip;</a></cite></footer></blockquote></p>
+<p><blockquote><p>Modest proposal: every time one side in Congress introduces legislation, the other side gets to name it.</p><footer><strong>@iowahawkblog <a href="https://twitter.com/iowahawkblog/status/301462708287598592">https://twitter.com/iowahawkblog/status/301462708287598592</a></strong></footer></blockquote></p>
 
-<h2 id="an-h2-header">An H2 Header</h2>
+<h2>An H2 Header</h2>
 
-<h3 id="h3-headers-are-useful">H3 Headers Are Useful</h3>
+<h3>H3 Headers Are Useful</h3>
 
-<h4 id="what-about-an-h4">What About an H4?</h4>
+<h4>What About an H4?</h4>
 
-<h5 id="a-fifth-level-header-could-be-useful">A Fifth Level Header Could Be Useful</h5>
+<h5>A Fifth Level Header Could Be Useful</h5>
 
-<h6 id="not-sure-about-going-all-the-way-to-six">Not Sure About Going All the Way to Six…</h6>
+<h6>Not Sure About Going All the Way to Six&hellip;</h6>
 
 <p>A sampling of some lists:</p>
 
 <ol>
-  <li>The first item in an ordered list</li>
-  <li>And the second</li>
-  <li>Good things happen in threes</li>
+<li>The first item in an ordered list</li>
+<li>And the second</li>
+<li>Good things happen in threes</li>
 </ol>
+
 
 <p>Another one:</p>
 
 <ul>
-  <li>Unordered list, item the first</li>
-  <li>Second is the first loser</li>
-  <li>The always important third item.</li>
+<li>Unordered list, item the first</li>
+<li>Second is the first loser</li>
+<li>The always important third item.</li>
 </ul>
+
 
 <p>Here is a basic Markdown code block, indented with four spaces:</p>
 
@@ -70,7 +70,7 @@
 }
 </code></pre>
 
-<p>Octopress also allows for Github-style “backtick” code blocks. Here a few examples:</p>
+<p>Octopress also allows for Github-style &ldquo;backtick&rdquo; code blocks. Here a few examples:</p>
 
 <p><code>
 $ cd /Users/john_doe/projects
@@ -85,14 +85,14 @@ a:hover {
   text-decoration: none;
   }
 </code></p>
-
 <div class="footnotes">
-  <ol>
-    <li id="fn:1">
-      <p>Footnotes! You’ll have to use the ‘kramdown’ markdown processor to use them.<a href="#fnref:1" rel="reference">&#8617;</a></p>
-    </li>
-  </ol>
+<hr/>
+<ol>
+<li id="fn:1">
+<p>Footnotes! You&rsquo;ll have to use the &lsquo;kramdown&rsquo; markdown processor to use them.<a href="#fnref:1" rev="footnote">&#8617;</a></p></li>
+</ol>
 </div>
+
 ]]></content>
   </entry>
   
@@ -101,8 +101,7 @@ a:hover {
     <link href="http://sheeran.github.com/blog/2013/02/11/first-test-post/"/>
     <updated>2013-02-11T22:46:00-07:00</updated>
     <id>http://sheeran.github.com/blog/2013/02/11/first-test-post</id>
-    <content type="html"><![CDATA[<p>This site is a “testing server” for my actual Octopress-powered blog at <a href="http://www.nealsheeran.com">www.nealsheeran.com</a>. I’ll be working on my personal theme and wanted a completely separate installation, in case I break something. Wouldn’t be the first time.</p>
-
+    <content type="html"><![CDATA[<p>This site is a &ldquo;testing server&rdquo; for my actual Octopress-powered blog at <a href="http://www.nealsheeran.com">www.nealsheeran.com</a>. I&rsquo;ll be working on my personal theme and wanted a completely separate installation, in case I break something. Wouldn&rsquo;t be the first time.</p>
 ]]></content>
   </entry>
   
